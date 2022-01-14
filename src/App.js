@@ -13,7 +13,6 @@ function App() {
           <Navigation />
         </Route>
       </Switch>
-      {/* <Navigation /> */}
     </div>
   ); 
 }
